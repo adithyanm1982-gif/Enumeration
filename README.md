@@ -136,8 +136,15 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 <img width="1920" height="844" alt="dnsrecon" src="https://github.com/user-attachments/assets/063c75df-4590-427e-a11e-b2539656cdbc" />
 
 ### 9. dnsenum
+<img width="682" height="717" alt="Screenshot 2026-08-19 102401" src="https://github.com/user-attachments/assets/f2b4fa21-1fbe-47f1-8100-2c80d94bf2b9" />
+
+<img width="751" height="533" alt="Screenshot 2026-08-19 102421" src="https://github.com/user-attachments/assets/76e94c22-3e47-4a30-84bf-d345752f7bd7" />
 
 ### 10. smtp-user-enum
+<img width="655" height="355" alt="image" src="https://github.com/user-attachments/assets/cd2d3441-fb27-4428-b26c-7655b5478aa5" />
+
+<img width="648" height="772" alt="image" src="https://github.com/user-attachments/assets/583e46ea-42b3-44bf-b3a7-b2ea2587afe6" />
+
 
 ### 11. Telnet
 
